@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+ul{list-style:none;}
+a {text-decoration: none;color:#656565}
+img {border: none;}
+.inner {width:1200px;margin:0 auto;}
+
+.header .h_top {line-height:35px;height:35px;background: #171f2a;font-size: 12px;font-family: "Microsoft YaHei"}
+.header .h_top p {float:left;padding-left:5px; }
+.header .h_top .yellow {color:#fbb500;}
+.header .h_top .guanlizhongxin {background:url("../images/index_h_03.jpg") no-repeat left center;padding-left: 24px;}
+.header .h_top span {padding:0 11px;}
+.header .h_top ul {float:right;padding-right: 19px;background: url("../images/index_h_06.jpg") no-repeat right center;}
+.header .h_top li {float:left;color:#a1a39e;}
+.header .h_bot {background:#2c3343;height:60px;}
+.header .logo {float:left;height:60px}
+.header .logo span {padding:0 13px;}
+.header .logo1 {padding:7px 13px 0 10px;float:left;}
+.header .logo2 {padding:9px 9px 0 0;float:left}
+.header .h_bot ul {float:left;}
+.header .h_bot li {float:left;}
+.header .h_bot a {display: block;padding:0 20px;font-size: 16px;line-height:60px;height:60px;font-family: "Microsoft YaHei"}
+.header .h_bot .active {background: #202833;color:#fbb500;}
+.header .h_bot a:hover {color:#fbb500;background: #202833;}
+.header .h_bot a {color:#fff;}
+
+
+
+.f_bot {background: #27303f;height:431px;}
+.f_bot .f_bot_six {height:217px;padding:29px 0 0 10px;}
+.f_bot .f_bot_six dl {float:left;width:193px;}
+.f_bot .f_bot_six dt {line-height: 41px;height:41px;color:#fff;font-family: "Microsoft YaHei";font-size: 15px;}
+.f_bot .f_bot_six dd {line-height: 26px;height:26px;font-family: "Microsoft YaHei";font-size: 12px;}
+.f_bot .f_bot_six dl a {color:#7d8ea0;}
+.f_bot .f_bot_six .aboutus {width:182px;float:left;}
+.f_bot .f_bot_six .aboutus h4 {line-height: 41px;height:41px;font-family: "Microsoft YaHei";font-size: 15px;color:#fff;}
+.f_bot .f_bot_six .weibo {width:91px;height:43px;}
+.f_bot .f_bot_six .weibo p {float:left;line-height: 43px;height:43px;color:#7d8ea0;font-family: "Microsoft YaHei";font-size: 12px;}
+.f_bot .f_bot_six .weibo .xinlang {float:right;padding-top: 14px;}
+.f_bot .f_bot_six .weibo .weixin {float:right;padding:14px 0 0 15px;}
+.f_bot .yun {float:left;width:226px;}
+.f_bot .yun_in {height:91px;}
+.f_bot .yun .pic {float:left;padding:11px 23px 0 0}
+.f_bot .yun_in .yun_dl {width:120px;float:right;padding-top: 9px;}
+.f_bot .yun_in .yun_dl .yun_dt {line-height: 20px;height:20px;font-size: 12px}
+.f_bot .yun_in .yun_dl .yun_dd {line-height: 20px;height:20px;font-size: 12px;color:#7d8ea0;}
+.f_bot .yun dl dt {color:#fff;}
+.copy {border-top:1px solid #343e4a;line-height: 30px;color:#565d67;font-size: 12px;text-align: center;padding-top: 10px;}
+.f_bot span {padding:0 10px;}
+.f_bot .tencent{width:786px;margin: 0 auto;font-family: "Microsoft YaHei";color:#565d67;height:36px;text-align: center}
+.f_bot .tencent .ten {font-style:italic;line-height: 36px;height:36px;float:left;float:left;font-size: 23px;font-weight: bolder;padding-right: 30px;}
+.f_bot .tencent .ten1 {line-height: 34px;float:right;float:left;font-size: 14px}

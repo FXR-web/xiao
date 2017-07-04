@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+.inner1 {width:1000px;margin: 0 auto;}
+.banner {height:500px;background: url("../images/tuiguang_bg_02.jpg") repeat-x}
+.main {font-family: "Microsoft YaHei"}
+.page1 {height:419px;border-bottom: 1px solid #dfdfdf;position: relative}
+.page1 h2 {padding-top: 84px;line-height: 98px;height:98px;font-size: 36px; ;color:#4460b3;}
+.page1 p {font-size: 18px;;color:#443f45;line-height: 26px;width:558px;}
+.page1 img {position: absolute;right:0 ;top:84px;}
+
+.page2 {height:369px;border-bottom: 1px solid #dfdfdf;}
+.page2 .right {float:right;}
+.page2 h2 {padding-top: 84px;line-height: 98px;height:98px;font-size: 36px;color:#4460b3;}
+.page2 p {font-size: 18px;color:#443f45;line-height: 26px;width:570px;}
+.page2 img {padding-top: 90px;}
+
+.page3 {height:489px;border-bottom: 1px solid #dfdfdf;}
+.page3 h2 {line-height: 113px;height:113px;font-size: 30px;font-weight: normal;padding-top: 28px;}
+.page3 .page3_bot {width:211px;text-align: center;float:left;padding:0 21px 0 18px;}
+.page3 .page3_bot h3 {line-height: 54px;height:54px;padding-top: 23px;color:#686866;font-size: 24px;}
+.page3 .page3_bot p {font-size: 15px;color:#9a93a3;line-height: 25px;}
+
+.page4 {height:286px;}
+.page4 h2 {line-height: 111px;height:111px;font-size: 30px;font-weight: normal;padding-top: 19px;}
+.page4 .page4_bot {display: inline-block;text-align: center;float:left;margin-right: 69px;}
+.page4 .page4_bot h3 {line-height: 69px;height:69px;color:#080000;font-size: 24px;}
+.page4 .other {margin-right: 0;}
+
+
+
+
+.last {height:457px;background: #f2f2f2;}
+.last h2 {line-height: 113px;padding-top: 18px;color:#333;font-size: 30px;}
+.last li {font-size: 14px;color:#747675;line-height: 25px;}
+.last li span {color:#348fea;border-bottom: 1px solid #348fea;}
+.last .woyaotuiguang {background:#fa7f3b;width:280px;height:52px;text-align: center;line-height: 52px;font-size: 23px;font-family: "黑体";margin: 0 auto;margin-top: 30px; border-radius: 3px;}
+.last .woyaotuiguang a {display: block;color:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

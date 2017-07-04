@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner {height:500px;background:url("../images/index_bg_02.jpg") repeat-x;}
+
+.tips {background: #e6e6e6;}
+.tips ul {line-height: 40px;height:40px;}
+.tips li {float: left;padding-left: 15px;background: url("../images/point_03.jpg") no-repeat left center;}
+.tips .other {width:396px;}
+
+
+.main {height:1140px;}
+.main .m_top {padding-top: 40px;height:244px;}
+.main .m_top .price {height:242px;width:183px;float:left;border: 1px solid #cbcbcb;text-align: center;margin-right: 11px;}
+.main .m_top .price .pri_pic {padding:25px 56px 0 55px;}
+.m_top h3 {line-height: 49px;height:49px;font-weight: normal;font-size: 20px;color:#000;font-family: "Microsoft YaHei"}
+.m_top p {color:#abaaa5;}
+.m_top span {font-size: 41px;font-family: "黑体";color:#ff733f;line-height: 69px;heigh:69px;}
+.m_mid {padding-top: 59px;}
+.m_mid h3 {line-height: 87px;height:87px;font-weight: normal;font-size: 20px;color:#000;font-family: "Microsoft YaHei"}
+.m_mid ul {display: inline-block;*display:inline;*zoom:1;margin:0 auto;}
+.m_mid li {float:left;}
+.m_mid .active {border-bottom: 2px solid #0f79cd ;color:#0f79cd;}
+.m_mid li a {color:#9298b2;height:34px;display: block;margin: 0 12px;padding:0 10px;line-height: 34px}
+.m_mid ul a:hover {color:#0f79cd;border-bottom: 2px solid #0f79cd}
+.m_mid .box {text-align: center;height:251px;padding-top: 46px;}
+.m_mid .box1 {height:251px;width:200px;float:left;}
+.m_mid .box1 h4 {padding-top: 10px;line-height: 29px;height:29px;font-size: 18px;font-family:"Microsoft YaHei";font-weight: normal;}
+.m_mid .box1 h4 a {color:#223134}
+.m_mid .box1 p {line-height: 26px;height:26px;color:#c1bbc5;font-size: 14px;font-family:"Microsoft YaHei"}
+.m_bot {height:272px;padding-bottom: 28px;}
+.m_bot .left {width:351px;font-family:"Microsoft YaHei";float:left;}
+.m_bot .left h4{line-height: 71px;height:71px;font-size: 22px;font-weight: normal;}
+.m_bot .left h4 a {color:#192d34;}
+.m_bot .left h4 span {line-height: 71px;height:71px;float:right;color:#1455a5;font-size: 14px;}
+.m_bot .left li {padding-left: 15px;background: url("../images/point_03.jpg")no-repeat left center;}
+.m_bot .left li a {line-height: 40px;height:40px;font-size: 14px;color:#223136;}
+.m_bot .left li span {float:right;color:#a6a8a5;font-size: 14px;line-height: 40px;height:40px}
+.m_bot .chanpin {padding:0 68px 0 80px;}
+
+.m_bot .right {width:336px;float:right;font-family:"Microsoft YaHei"}
+.m_bot .right img {width:336px;height:106px;margin-top: 6px;}
+.m_bot .right h4{line-height: 71px;height:71px;font-size: 22px;font-weight: normal;}
+.m_bot .right h4 a {color:#192d34;}
+.m_bot .right h4 span {line-height: 71px;height:71px;float:right;color:#1455a5;font-size: 14px;}
+.m_bot .right li {padding-left: 15px;background: url("../images/point_03.jpg")no-repeat left center;}
+.m_bot .right li a {line-height: 40px;height:40px;font-size: 14px;color:#223136;}
+.m_bot .right li span {float:right;color:#a6a8a5;font-size: 14px;line-height: 40px;height:40px}
+
+.renzheng {width:335px;height:75px}
+.renzheng p {line-height:75px;height:75px;font-size:16px;color:#223146;float:left}
+.renzheng  a {width:95px;height:33px;color:#fff;font-size:14px;font-weight:normal;line-height:33px;height:33px;background:#0071cf;float:right;text-align: center;margin-top: 22px;}
+
+
+.banner2 {height:320px;background:url("../images/zhanweitu_02.jpg") repeat-x}
